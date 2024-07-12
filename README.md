@@ -1,2 +1,2 @@
-# docker_scripts
-Scripts for dockers set-up
+# docker_dev
+Template for devcontainer env
